@@ -38,6 +38,16 @@ DELETE /users/1 - Delete the user with ID 1
   https://www.mockaroo.com/
 ```
 
+## Installation
+
+Install with npm
+
+```bash
+  npm i
+  npm start
+```
+    
+
 ![Screenshot (42)](https://github.com/user-attachments/assets/29b9aa58-4b51-4111-a8d4-4f85f8cef061)
 
 
